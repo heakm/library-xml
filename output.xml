@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plano>
+
+<curso nome="Mestrado em Engenharia Informática">
+</curso>
+<fuc>
+</fuc>
+<fuc codigo="M4310">
+
+<nome nome="Programação Avançada">
+</nome>
+<ects ects="6.0">
+</ects>
+<avaliacao>
+
+<componente nome="Quizzes" peso="20%">
+</componente>
+<componente nome="Projeto" peso="80%">
+</componente>
+</avaliacao>
+</fuc>
+<test codigo="03782">
+</test>
+<fuc codigo="03782">
+
+<nome nome="Dissertação">
+</nome>
+<ects ects="42.0">
+</ects>
+<avaliacao>
+
+<componente nome="Dissertação" peso="60%">
+</componente>
+<componente nome="Apresentação" peso="20%">
+</componente>
+<componente nome="Discussão" peso="20%">
+</componente>
+</avaliacao>
+</fuc>
+</plano>
